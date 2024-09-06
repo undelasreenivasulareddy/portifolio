@@ -5,8 +5,7 @@ Welcome to my personal portfolio! This repository showcases my educational backg
 ## [🌐 Visit My Portfolio](https://undelasreenivasulareddy.github.io/portifolio/)
 
 ### 👨‍💻 Profile
-
-As a recent graduate with a B.Tech in Computer Science and Engineering, I am enthusiastic about starting my career in software development. My hands-on projects, academic coursework, and self-driven learning have equipped me with the foundational skills to succeed in this field.
+As i work ad the applictaion developer in the start up named as bsit software services pvt.ltd
 
 ### 🎓 Education
 - **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
